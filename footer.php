@@ -92,7 +92,9 @@
         <script src="assets/js/mixitup.min.js"></script>
         
         <!-- :: Main JS -->
-        <script src="assets/js/main.js"></script><script src="assets/js/ajax-script.js"></script>
+        <script src="assets/js/main.js"></script>
+        <script src="assets/js/main_gal.js"></script>
+        <script src="assets/js/ajax-script.js"></script>
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
         <script>
             // :: Setup Mixitup

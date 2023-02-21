@@ -50,6 +50,9 @@
         <!-- :: Style CSS -->
         <link rel="stylesheet" href="assets/css/style.css">
 
+        <!-- :: Gallery CSS -->
+        <link rel="stylesheet" type="text/css" href="assets/css/style_gal.css">
+
         <!-- :: Style Responsive CSS -->
         <link rel="stylesheet" href="assets/css/responsive.css">
         <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
